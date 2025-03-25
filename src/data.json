@@ -1,0 +1,44 @@
+[
+   {
+      "appName": "App 1",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 1. this is a demo app. this is the description of the app 1.",
+      "appSize": 170,
+      "appLink": "./assets/react.svg"
+   },
+   {
+      "appName": "App 2",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 2. this is a demo app. this is the description of the app 2.",
+      "appSize": 174,
+      "appLink": "./vite.svg"
+   },
+   {
+      "appName": "App 3",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 3. this is a demo app. this is the description of the app 3.",
+      "appSize": 172,
+      "appLink": "./assets/react.svg"
+   },
+   {
+      "appName": "App 4",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 4. this is a demo app. this is the description of the app 4.",
+      "appSize": 120,
+      "appLink": "./assets/react.svg"
+   },
+   {
+      "appName": "App 5",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 5. this is a demo app. this is the description of the app 5.",
+      "appSize": 190,
+      "appLink": "./assets/react.svg"
+   },
+   {
+      "appName": "App 6",
+      "appIcon": "./assets/react.svg",
+      "appDesc": "this is an app named as app 6. this is a demo app. this is the description of the app 6.",
+      "appSize": 170,
+      "appLink": "./assets/react.svg"
+   }
+]
