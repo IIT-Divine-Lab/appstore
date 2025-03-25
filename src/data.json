@@ -4,286 +4,327 @@
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR AppShala Marker Models",
       "appDesc": "Objects augment when you scan marker",
       "appSize": 604160,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Ar AppShala Story Book",
       "appDesc": "Objects Augmented when you scan stories in storybook also you can interact with some object",
       "appSize": 530432,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR Swar Varnmala Videos",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Varnmala",
       "appDesc": "Models augment as a varnmala when you scan varnmala",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Alphabet Capital",
       "appDesc": "Models augment with their first letter when you scan capital alphabet",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR write words",
       "appDesc": "detect hand written words (30 words)",
       "appSize": 92160,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR color mixer",
       "appDesc": "color cards which shows 3d color blobs,can mix them, can also drag color into 3d model",
       "appSize": 76800,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR color detection ",
       "appDesc": "detect color from environment, then put that color in 3d model in ar",
       "appSize": 40960,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR Yoga",
       "appDesc": "Scan Surface, tap to place yoga model , different yoga ",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR Voice Over  Books x 18",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Human Body",
       "appDesc": "It is a plane detection app with models they start doing activity when you touch",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Sticks App",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR 3D Models Interactive Books (nurs, ukg, lkg)",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR front camera English, Hindi, Numeric Equations",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Alphabet",
       "appDesc": "Models augment with their first letter when you scan alphabet",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Alphabet Small",
       "appDesc": "Models augment with their first letter when you scan small alphabet",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Numeric App",
       "appDesc": "Models augment as a number when you scan numeric marker",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "ARAnimals",
       "appDesc": "Models of animal augment when you scan the marker with their animation",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Red Fort",
       "appDesc": "View of Red Fort",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Hindi Varnmala Model",
       "appDesc": "Model augment as it is marker when you scan",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "BVN1",
       "appDesc": "Alphabet Model,Varnmala Model, Rabbit, Lion, Elephant, Crocodile Model with Sound",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "FaceAR",
       "appDesc": "This ia face filter app as like quiz",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Silhouette App",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Traffic Signs",
       "appDesc": "View of city where traffic signs ",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR tile game (AR puzzle words game)",
       "appDesc": "match words tiles with their respective figures ( starting 4 tiles only)",
       "appSize": 71680,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR write words (rotating puzzle)",
       "appDesc": "Detect words from the word making rotating puzzle prop (only 4)",
       "appSize": 66560,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR number animals",
       "appDesc": "puzzle game where you arrange number with animal, displays that many animals. ",
       "appSize": 80896,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Sample Book",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
-      "appName": "BVNBasics",
+      "appName": "BVN Basics",
       "appDesc": "Alphabet Capital, Alphabet Small, Varnmala, Varnmala Model, Alphabet Model",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Transport IITD",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Multi Models",
       "appDesc": "4 Models augment when you scan marker if you want to augment another model with same marker then their is a next and back button",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Turtle Help",
       "appDesc": "It is an activity created on story",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR Portal Demo",
       "appDesc": "It ia a plane detection app",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "New Banana",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Ballon Shooter IITD",
       "appDesc": "In this app their is baloon and shotting point you can shoot on ballon with many formats",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
-      "appName": "HumanBodyPartsMetaverse",
+      "appName": "Human Body Parts Metaverse",
       "appDesc": "After Plane detaction single tap on screen model is augment in metaverse",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
-      "appName": "Transport(Puzzle)",
+      "appName": "Transport (Puzzle)",
       "appDesc": "",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR color box",
       "appDesc": "the color activity box, 3d ar environment on top of it",
       "appSize": 71680,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "Alphabet Models",
       "appDesc": "Models augment as it is marker when you scan",
       "appSize": 0,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    },
    {
       "appName": "AR find words",
       "appDesc": "scan bunch of alphabet marks, it will show any possibile words and respective model ",
       "appSize": 122880,
       "appLink": ".\/assets\/react.svg",
-      "appIcon": ".\/assets\/react.svg"
+      "appIcon": ".\/assets\/react.svg",
+      "working": true
    }
 ]
