@@ -22,15 +22,18 @@ function App() {
                <div className='items-center grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 p-5'>
                   {
                      data.map((item, index) => {
-                        return item.working && <div onClick={() => { setModal(true); setModalContent(index) }} className=' border-1 hover:animate-[transition-up_0.2s_ease-in_forwards] cursor-pointer flex rounded-2xl border-blue-500 h-max p-4 m-4' key={index}>
-                           <div className='mr-3 h-auto min-w-16 min-h-20 flex justify-center'>
-                              <img className='w-full h-full' src={item.appIcon} alt="" />
+                        if (item.working && item.appSize !== 0)
+                           return <div onClick={() => { setModal(true); setModalContent(index) }} className=' border-1 hover:animate-[transition-up_0.2s_ease-in_forwards] cursor-pointer flex rounded-2xl border-blue-500 h-max p-4 m-4' key={index}>
+                              <div className='mr-3 h-auto min-w-16 min-h-20 flex justify-center'>
+                                 <img className='w-full h-full' src={item.appIcon} alt="" />
+                              </div>
+                              <div>
+                                 <h2 className='font-bold'>{item.appName.length > nameSlice ? item.appName.slice(0, nameSlice) + "..." : item.appName}</h2>
+                                 <h6 className=' italic text-sm'>{item.appDesc.length > descSlice ? item.appDesc.slice(0, descSlice) + "..." : item.appDesc}</h6>
+                              </div>
                            </div>
-                           <div>
-                              <h2 className='font-bold'>{item.appName.length > nameSlice ? item.appName.slice(0, nameSlice) + "..." : item.appName}</h2>
-                              <h6 className=' italic text-sm'>{item.appDesc.length > descSlice ? item.appDesc.slice(0, descSlice) + "..." : item.appDesc}</h6>
-                           </div>
-                        </div>
+                        else
+                           return <></>
                      })
                   }
                </div>
